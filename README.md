@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm Merthan</h1>
-<h3 align="center">A high school student from Turkey with a passion for software development, robotics, and custom ROM building.</h3>
+# About Me - Hakkımda
 
-- 🛠️ I’m currently working on **robotics projects and coding**
+I am a high school student with a passion for software development, robotics, and custom ROM building. Currently, I am exploring the field of reverse engineering and eager to learn more about custom ROM building.
 
-- 🌱 I’m currently learning **"C,PHP,CSS,JS**
+Ben bir lise öğrencisiyim ve yazılım geliştirme, robotik ve özel ROM oluşturma konularına ilgi duyuyorum. Şu anda tersine mühendislik alanını keşfediyorum ve özel ROM oluşturma konusunda daha fazla şey öğrenmek için sabırsızlanıyorum.
 
-- 👯 I’m looking to collaborate on **an optimization specialist in an operating system development company**
+## Skills - Yeteneklerim
 
-- 📫 How to reach me **t.me/thehellan**
+- Programming languages: C, C++, C#
+- Robotics: experience with Arduino and Raspberry Pi
+- Familiar with Linux operating system
+- Custom ROM building: experience with building custom ROMs for Android devices
+##
+- Programlama dilleri: C, C++, C#
+- Robotik: Arduino ve Raspberry Pi ile deneyimim var
+- Linux işletim sistemi hakkında bilgi sahibiyim
+- Özel ROM oluşturma: Android cihazlar için özel ROM oluşturma deneyimim var
+  
+## Projects - Projelerim
 
-- ⚡ Fun fact **I have an ADHD**
+I am currently working on several projects related to software development, robotics, and custom ROM building. Please check out my GitHub repositories to see what I am up to!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thehellan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thehellan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21457409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21457409" height="30" width="40" /></a>
-<a href="https://instagram.com/k.merthann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.merthann" height="30" width="40" /></a>
-</p>
+Şu anda yazılım geliştirme, robotik ve özel ROM oluşturma ile ilgili birkaç projede çalışıyorum. Nelerle uğraştığımı görmek için GitHub depolarıma göz atabilirsiniz!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+## Contact Me - Benimle İletişime Geçin
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehellan&show_icons=true&theme=dark&hide_border=true&locale=en" alt="thehellan" /></p>
+If you have any questions or suggestions, feel free to contact me at [@thehellan](https://t.me/thehellan).
+
+Herhangi bir sorunuz veya öneriniz varsa, benimle üstteki link'ten iletişime geçebilirsiniz.
+
+Thank you for visiting my GitHub profile!
+
+GitHub profilimi ziyaret ettiğiniz için teşekkür ederim!
