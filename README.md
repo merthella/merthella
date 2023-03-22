@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Merthan</h1>
 <h3 align="center">A high school student from Turkey with a passion for software development, robotics, and custom ROM building.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehellan&label=Profile%20views&color=c7c4fd&style=flat" alt="thehellan" /> </p>
-
 - 🛠️ I’m currently working on **robotics projects and coding**
 
 - 🌱 I’m currently learning **"C,PHP,CSS,JS**
