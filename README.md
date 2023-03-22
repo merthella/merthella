@@ -12,6 +12,6 @@ I'm currently working on several projects related to 💻 software development, 
 [repos are private atm :/]
 
 📩 Contact Me -
-If you have any questions or suggestions, feel free to contact me at merthan111a@gmail.com.
+If you have any questions or suggestions, feel free to contact me at [@thehellan](https://t.me/thehellan) 
 
 Thank you for visiting my GitHub profile! 😄 -
