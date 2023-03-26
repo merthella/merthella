@@ -12,7 +12,7 @@
         box-sizing: border-box;
       }
       .body {
-  --color-main: #5D3FD3;
+  --color-main: #d35da1;
   --color-primary: #483248;
   --color-secondary: #301934;
   --color-background: #333;
