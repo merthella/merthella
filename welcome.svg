@@ -15,7 +15,7 @@
      --color-main: #a8512f;
      --color-primary: #483248;
      --color-secondary: #c4772a;
-     --color-background: #9eafb6;
+     --color-background: #2f2f2f;
      --color-link: #edd6cc;
      --color-link-active:#233349;
         height: 400px;
