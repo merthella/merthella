@@ -12,7 +12,7 @@
         box-sizing: border-box;
       }
       .body {
-     --color-main: #a8512f;
+     --color-main: #F1C1AA;
      --color-primary: #483248;
      --color-secondary: #c4772a;
      --color-background: #0D1117;
@@ -158,7 +158,7 @@
       }
       @media (prefers-color-scheme: light) {
         .body {
-     --color-main: #a8512f;
+     --color-main: #F1C1AA;
      --color-primary: #483248;
      --color-secondary: #c4772a;
      --color-background: #FFFFFF;
