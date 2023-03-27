@@ -12,12 +12,12 @@
         box-sizing: border-box;
       }
       .body {
-  --color-main: #d35da1;
-  --color-primary: #483248;
-  --color-secondary: #301934;
-  --color-background: #333;
-  --color-link: #702963;
-  --color-link-active: #9F2B68;
+     --color-main: #a8512f;
+     --color-primary: #483248;
+     --color-secondary: #c4772a;
+     --color-background: #9eafb6;
+     --color-link: #edd6cc;
+     --color-link-active:#233349;
         height: 400px;
         width: 100%;
         text-transform: uppercase;
