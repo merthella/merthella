@@ -158,12 +158,12 @@
       }
       @media (prefers-color-scheme: light) {
         .body {
-          --color-main: #9B5DE5;
-          --color-primary: #F15BB5;
-          --color-secondary: #00BBF9;
-          --color-background: #ffffff;
-          --color-link: #00BBF9;
-          --color-link-active: #F15BB5;
+     --color-main: #a8512f;
+     --color-primary: #483248;
+     --color-secondary: #c4772a;
+     --color-background: #FFFFFF;
+     --color-link: #edd6cc;
+     --color-link-active:#233349;
         }
       }
       @media (prefers-reduced-motion) {
