@@ -158,12 +158,12 @@
       }
       @media (prefers-color-scheme: light) {
         .body {
-     --color-main: #F1C1AA;
-     --color-primary: #483248;
-     --color-secondary: #c4772a;
-     --color-background: #FFFFFF;
-     --color-link: #edd6cc;
-     --color-link-active:#233349;
+      --color-main: #6A5ACD;       /* SlateBlue mor tonu */
+      --color-primary: #483D8B;    /* DarkSlateBlue mor tonu */
+      --color-secondary: #9370DB;  /* Orta mor ton */
+      --color-background: #FFFFFF; /* Beyaz arkaplan */
+      --color-link: #7B68EE;       /* Orta mavi-mor ton */
+      --color-link-active: #483D8B;/* DarkSlateBlue */
         }
       }
       @media (prefers-reduced-motion) {
